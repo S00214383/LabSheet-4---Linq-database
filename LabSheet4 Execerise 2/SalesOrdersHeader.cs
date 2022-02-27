@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabSheet4_Execerise_2
 {
+    //partial class
     public partial class SalesOrderHeader
     {
         public override string ToString()
